@@ -44,7 +44,7 @@ A command-line application that takes user inputs to generate an employee summar
 
 ## User Experience
 
-![Gif Demo](team-builder-demo.gif)
+[Gif Demo](team-builder-demo.gif)
 
 ## Developer Experience
 
