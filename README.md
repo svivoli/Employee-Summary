@@ -2,7 +2,7 @@
 
 ## Links to Project
 
-[Live Link](https://svivoli.github.io/Team-Builder/)
+[Live Link](https://svivoli.github.io/Team-Builder/)  
 [Repository](https://github.com/svivoli/Team-Builder)
 
 ## Instructions
