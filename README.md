@@ -1,5 +1,10 @@
 # Employee-Summary
 
+## Links to Project
+
+[Live Link](https://svivoli.github.io/Team-Builder/)
+[Repository](https://github.com/svivoli/Team-Builder)
+
 ## Instructions
 
 1. With terminal pointing toward the project's directory, enter the following command:
@@ -37,7 +42,13 @@ A command-line application that takes user inputs to generate an employee summar
 4. FontAwesome icons
 5. Google Fonts
 
-## Links to Project
+## User Experience
 
+![Gif Demo](https://i.imgur.com/qoBNVF6.mp4)
 
+## Developer Experience
+
+I found this project to be another exciting challenge. Like the GitHub PDF Generator, it had many components to compile and combine. I'm enjoying becoming familiar with node and writing command line applications. Being able to generate files is very useful skill to have in the corporate world and node allows you to do so with code that is generally concise and easy to read.
+
+--Sarah Vivoli
 
